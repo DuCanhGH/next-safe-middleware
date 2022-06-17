@@ -1,5 +1,11 @@
 # @next-safe/middleware
 
+## 0.6.1
+
+### Patch Changes
+
+- [#32](https://github.com/nibtime/next-safe-middleware/pull/32) [`c9d42e5`](https://github.com/nibtime/next-safe-middleware/commit/c9d42e5e9da2caaadb464cde6aba21e2ec0c50d8) Thanks [@boennemann](https://github.com/boennemann)! - fix: use open-ended peerDependency ranges
+
 ## 0.6.0
 
 ### Minor Changes
